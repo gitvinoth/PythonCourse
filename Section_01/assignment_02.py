@@ -8,5 +8,6 @@ Write code to correct this:
 print("We have {2} small boxes, {2} large boxes, {2} medium boxes".format(10,12,12))
 
 """
+print("We have {2} small boxes, {3} large boxes, {4} medium boxes".format(10,12,12))
 
 
